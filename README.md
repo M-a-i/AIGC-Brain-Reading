@@ -126,14 +126,16 @@ Dataset [[HCP](#fmri-pretrain)]  [[GOD](#fmri-image)]  [[BLOD](#fmri-image)]<br>
 
 **(CMVDM) Controllable Mind Visual Diffusion Model**<br>
 *Bohan Zeng, Shanglin Li, Xuhui Liu, Sicheng Gao, Xiaolong Jiang, Xu Tang, Yao Hu, Jianzhuang Liu, Baochang Zhang*<br>
-arxiv 2023
-[[Paper](https://arxiv.org/abs/2305.10135)] <br>
+AAAI 2024
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28519)] 
+[[Code](https://github.com/zengbohan0217/CMVDM)] <br>
 Dataset [[HCP](#fmri-pretrain)]  [[GOD](#fmri-image)]  [[BLOD](#fmri-image)]<br>
 
 **(CAD) Contrast, Attend and Diffuse to Decode High-Resolution Images from Brain Activities**<br>
 *Jingyuan Sun, Mingxiao Li, Zijiao Chen, Yunhao Zhang, Shaonan Wang, Marie-Francine Moens*<br>
-arxiv 2023
-[[Paper](https://arxiv.org/abs/2305.17214)] <br>
+NeurIPS 2023
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/28dad4a70f748a2980998d3ed0f1b8d2-Paper-Conference.pdf)] 
+[[Code](https://github.com/soinx0629/vis_dec_neurips/)] <br> 
 Dataset [[HCP](#fmri-pretrain)]  [[GOD](#fmri-image)]  [[BLOD](#fmri-image)]<br>
 
 ----------------------------------------------------------------------------------------------------
@@ -374,8 +376,9 @@ Dataset [[STNS](#fmri-video)]<br>
 ## Sound-Brain-Sound
 **(BSR) Sound reconstruction from human brain activity via a generative model with brain-like auditory features**<br>
 *Jong-Yun Park, Mitsuaki Tsukamoto, Misato Tanaka, Yukiyasu Kamitani*<br>
-arxiv 2023
-[[Paper](https://arxiv.org/abs/2306.11629)] <br>
+arXiv 2023
+[[Paper](https://arxiv.org/abs/2306.11629)] 
+[[Code](https://github.com/KamitaniLab/SoundReconstruction)] <br>
 Dataset [[BSR](#fmri-soundspeech)] <br>
 
 **(ETCAS) End-to-end translation of human neural activity to speech with a dual–dual generative adversarial network**<br>
@@ -653,8 +656,10 @@ Nature Neuroscience 2023
 ### fMRI-Sound&Speech
 **(BSR) Sound reconstruction from human brain activity via a generative model with brain-like auditory features**<br>
 *Jong-Yun Park, Mitsuaki Tsukamoto, Misato Tanaka, Yukiyasu Kamitani*<br>
-arxiv 2023
-[[Paper](https://arxiv.org/abs/2306.11629)] <br>
+arXiv 2023
+[[Paper](https://arxiv.org/abs/2306.11629)] 
+[[Code](https://github.com/KamitaniLab/SoundReconstruction)] <br>
+Dataset [[BSR](#fmri-soundspeech)] <br>
 
 **(ETCAS) End-to-end translation of human neural activity to speech with a dual–dual generative adversarial network**<br>
 *Yina Guo, Ting Liu, Xiaofei Zhang, Anhong Wang, Wenwu Wang*<br>
