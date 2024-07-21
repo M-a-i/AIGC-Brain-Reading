@@ -1,13 +1,8 @@
 # AIGC-Brain
-#### [Brain-Conditional Multimodal Synthesis: A Survey and Taxonomy](https://arxiv.org/abs/2401.00430)
+#### Brain-Conditional Multimodal Synthesis: A Survey and Taxonomy
 
 This project is associated with our survey paper which comprehensively examines the emerging field of AIGC-based brain-conditional multimodal synthesis, termed AIGC-Brain, to delineate the current landscape and future directions.
 <br>
-
-[![arXiv](https://img.shields.io/badge/arXiv-2401.00430-b31b1b.svg)](https://arxiv.org/abs/2401.00430)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 <br><img src='AIGC-Brain.png' align="center">
 Brain-Conditional Multimodal Synthesis via AIGC-Brain Decoder. Sensory stimuli comprising visual stimuli (Image (I), Video (V)) and audio stimuli (Music (M), Speech/Sound (S)) from the external world are first encoded to non-invasive brain signals (EEG, fMRI, or MEG) and then decoded back to perceptual experience via the AIGC-Brain decoder. This survey focuses on passive brain-conditional multimodal synthesis tasks including Image-Brain-Image (IBI), Video-Brain-Video (VBV), Sound-Brain-Sound (SBS), Music-Brain-Music (MBM), Image-Brain-Text (IBT), Video-Brain-Text (VBT), and Speech-Brain-Text (SBT), where IBI refers to image synthesis tasks conditioned on brain signals evoked by image stimuli.
@@ -720,24 +715,4 @@ CVPRW 2023
 [[Code](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)]
 
 ------------------------------------------------------------------------------------------------------
-
-## Our Work
-**UniBrain: Unify Image Reconstruction and Captioning All in One Diffusion Model from Human Brain Activity**<br>
-*Weijian Mai, Zhijun Zhang*<br>
-arxiv 2023
-[[Paper](https://arxiv.org/abs/2308.07428)] <br>
-Dataset [[NSD](#fmri-image)]<br>
-
-------------------------------------------------------------------------------------------------------
-
-## Citation
-If you use this project for your research, please cite our papers.
-```bibtex
-@article{mai2023brain,
-  title={Brain-Conditional Multimodal Synthesis: A Survey and Taxonomy},
-  author={Mai, Weijian and Zhang, Jian and Fang, Pengfei and Zhang, Zhijun},
-  journal={arXiv preprint arXiv:2401.00430},
-  year={2023}
-}
-```
 
